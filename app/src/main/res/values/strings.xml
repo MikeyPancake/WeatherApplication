@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Weather Application</string>
+    <string name="please_wait">Please Wait...</string>
+
+    <!--UI Strings-->
+    <string name="image_contentDescription">image</string>
+    <string name="miles_per_hour">MPH</string>
+    <string name="action_refresh">Refresh</string>
+</resources>
